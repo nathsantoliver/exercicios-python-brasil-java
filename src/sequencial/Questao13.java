@@ -12,7 +12,7 @@ public class Questao13 {
         System.out.print("Digite a sua altura: ");
         double h = scan.nextDouble();
 
-        double pesoIdeal = 0;
+        double pesoIdeal;
 
         if (genero.equalsIgnoreCase("m")) {
            pesoIdeal = (72.7 * h) - 58;
