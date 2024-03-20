@@ -9,11 +9,11 @@ public class Questao11 {
         int num2 = scan.nextInt();
         double num3 = scan.nextDouble();
 
-        // TODO: produto do dobro do primeiro com metade do segundo
+        // produto do dobro do primeiro com metade do segundo
         double a = (num1 * 2) * ((double) num2 / 2);
-        // TODO: a soma do triplo do primeiro com o terceiro
+        // a soma do triplo do primeiro com o terceiro
         double b = (num1 * 3) + num3;
-        // TODO: o terceiro elevado ao cubo
+        // o terceiro elevado ao cubo
         double c = Math.pow(num3, 3.0);     // ou double c = num3 * num3 * num3;
 
         System.out.println(a + "\n" + b + "\n" + c);
