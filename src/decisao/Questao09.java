@@ -41,5 +41,6 @@ public class Questao09 {
             }
         }
         System.out.println(maior + " " + meio + " " + menor);
+        scan.close();
     }
 }

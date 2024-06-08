@@ -18,5 +18,6 @@ public class Questao10 {
         } else {
             System.out.println("Valor Inválido!");
         }
+        scan.close();
     }
 }
