@@ -15,7 +15,7 @@ public class Questao11 {
             reajuste = salario * 0.20;
             salReajustado = salario + reajuste;
 
-            System.out.printf("Salario antes do reajuste: R$%.2f", salario);
+            System.out.printf("Salario antes do reajuste: R$%.2f%n", salario);
             System.out.println("Percentual de aumento aplicado: 20%");
             System.out.printf("\nValor do aumento: R$%.2f", reajuste);
             System.out.printf("\nSalario com reajuste: R$%.2f", salReajustado);
@@ -23,7 +23,7 @@ public class Questao11 {
             reajuste = salario * 0.15;
             salReajustado = salario + reajuste;
 
-            System.out.printf("Salario antes do reajuste: R$%.2f", salario);
+            System.out.printf("Salario antes do reajuste: R$%.2f%n", salario);
             System.out.println("Percentual de aumento aplicado: 15%");
             System.out.printf("\nValor do aumento: R$%.2f", reajuste);
             System.out.printf("\nSalario com reajuste: R$%.2f", salReajustado);
@@ -31,7 +31,7 @@ public class Questao11 {
             reajuste = salario * 0.10;
             salReajustado = salario + reajuste;
 
-            System.out.printf("Salario antes do reajuste: R$%.2f", salario);
+            System.out.printf("Salario antes do reajuste: R$%.2f%n", salario);
             System.out.println("Percentual de aumento aplicado: 10%");
             System.out.printf("\nValor do aumento: R$%.2f", reajuste);
             System.out.printf("\nSalario com reajuste: R$%.2f", salReajustado);
@@ -39,7 +39,7 @@ public class Questao11 {
             reajuste = salario * 0.05;
             salReajustado = salario + reajuste;
 
-            System.out.printf("Salario antes do reajuste: R$%.2f", salario);
+            System.out.printf("Salario antes do reajuste: R$%.2f%n", salario);
             System.out.println("Percentual de aumento aplicado: 5%");
             System.out.printf("\nValor do aumento: R$%.2f", reajuste);
             System.out.printf("\nSalario com reajuste: R$%.2f", salReajustado);
