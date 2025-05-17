@@ -7,34 +7,57 @@ public class Questao03 {
 
         Scanner scan = new Scanner(System.in);
 
-        // TODO: Nome => maior que 3 caracteres
-//        String nome;
+        System.out.print("\nDigite o seu Nome: ");
+        String nome = scan.next();
+        System.out.print("Digite a sua Idade: ");
+        int idade = scan.nextInt();
+        System.out.print("Digite o seu Salário: ");
+        double salario = scan.nextDouble();
+        System.out.print("Digite o seu Sexo: ");
+        String sexo = scan.next();
+        System.out.print("Digite o seu Estado Civil: ");
+        String estadoCivil = scan.next();
+        
+        System.out.println("\nValidando as informações...");
 
-        // TODO: Idade => entre 0 e 150
-//        int idade;
+        // Nome => maior que 3 caracteres
+       while (nome.length() <= 3) {
+            System.out.print("\nO nome deve ter mais que 3 caracteres.");
+            System.out.print("\nDigite o nome novamente: ");
+            nome = scan.next();
+        }
 
-        // TODO: Salário => maior que zero
-//        double salario;
+        // Idade => entre 0 e 150
+        while (idade <= 0 || idade >= 150) {
+            System.out.print("\nA idade deve ser maior que 0 e menor que 150.");
+            System.out.print("\nDigite a idade novamente: ");
+            idade = scan.nextInt();
+        }
 
-        // TODO: Sexo => 'f' ou 'm'
-//        char[] listaSexo = {'f', 'm'};
-//        char choiced;
-        char sexo = scan.next().charAt(0);
+        // Salário => maior que zero
+        while (salario <= 0) {
+            System.out.printf("%nO salário deve ser maior que 0.%nDigite o salário novamente: ");
+            salario = scan.nextDouble();
+        }
 
-        if (sexo == 'f' || sexo == 'm') {
-            System.out.println("Digite o seu sexo. 'F' para feminino ou 'M' para masculino: ");
-        } 
+        // Sexo => 'f' ou 'm'
+        while (!sexo.equalsIgnoreCase("f") &&
+                !sexo.equalsIgnoreCase("m")) {
+            System.out.printf("%nEste sexo não existe!%nDigite 'f' para feminino e 'm' para masculino: ");
+            sexo = scan.next();
+        }
 
-//        for (char sex : listaSexo) {
-//            if (sex == sexo) {
-//                choiced = sex;
-//
-//                System.out.printf("Você escolheu: %s", choiced);
-//            }
-//        }
+        // Estado Civil => 's', 'c', 'v', 'd'
+        while (!estadoCivil.equalsIgnoreCase("s") &&
+                !estadoCivil.equalsIgnoreCase("c") &&
+                !estadoCivil.equalsIgnoreCase("v") &&
+                !estadoCivil.equalsIgnoreCase("d")) {
+            System.out.printf("Estado civil digitado errado! As opções são: %n");
+            System.out.print("s - solteiro(a)\nc - casado(a)\nv - viúvo(a)\nd - divorciado(a)");
+            System.out.printf("%nDigite o Estado Civil novamente: ");
+            estadoCivil = scan.next();
+        }
 
-        // TODO: Estado Civil => 's', 'c', 'v', 'd'
-//        char[] estadoCivil = {'s', 'c', 'v', 'd'};
-
+        System.out.println("\nInformações validadas!!!");
     }
 }
