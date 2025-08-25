@@ -26,7 +26,7 @@ public class Questao12 {
         System.out.print("Digite um número de 1 a 10: ");
         num = scan.nextInt();
 
-        //Primeiro Método
+        //Primeiro Metodo
         /*
         do {
             mult = num * i;
@@ -35,7 +35,7 @@ public class Questao12 {
         } while (i <= 10);
         */
 
-        //Segundo Método
+        //Segundo Metodo
         for (i = 1; i <= 10; i++) {
             mult = num * i;
             System.out.println(num + " x " + i + " = " + mult);
