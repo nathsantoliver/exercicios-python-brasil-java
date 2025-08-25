@@ -10,10 +10,10 @@ public class Questao14 {
         char conceito;
         String situacao = "";
 
-        System.out.printf("Digite a primeira nota: ");
+        System.out.print("Digite a primeira nota: ");
         notaUm = scan.nextFloat();
 
-        System.out.printf("Digite a segunda nota: ");
+        System.out.print("Digite a segunda nota: ");
         notaDois = scan.nextFloat();
 
         media = (notaUm + notaDois) / 2;
