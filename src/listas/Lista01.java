@@ -1,6 +1,6 @@
 package listas;
 
-public class Questao01 {
+public class Lista01 {
     public static void main(String[] args) {
 
         int[] numeros = { 45, 23, 15, 84, 39 };
