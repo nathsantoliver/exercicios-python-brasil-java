@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Questao01",
+            "request": "launch",
+            "mainClass": "decisao.Questao01",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao02",
+            "request": "launch",
+            "mainClass": "decisao.Questao02",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao03",
+            "request": "launch",
+            "mainClass": "decisao.Questao03",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao04",
+            "request": "launch",
+            "mainClass": "decisao.Questao04",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao05",
+            "request": "launch",
+            "mainClass": "decisao.Questao05",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao06",
+            "request": "launch",
+            "mainClass": "decisao.Questao06",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao07",
+            "request": "launch",
+            "mainClass": "decisao.Questao07",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao08",
+            "request": "launch",
+            "mainClass": "decisao.Questao08",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao09",
+            "request": "launch",
+            "mainClass": "decisao.Questao09",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao10",
+            "request": "launch",
+            "mainClass": "decisao.Questao10",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao11",
+            "request": "launch",
+            "mainClass": "decisao.Questao11",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao12",
+            "request": "launch",
+            "mainClass": "decisao.Questao12",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao13",
+            "request": "launch",
+            "mainClass": "decisao.Questao13",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao14",
+            "request": "launch",
+            "mainClass": "decisao.Questao14",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista01",
+            "request": "launch",
+            "mainClass": "listas.Lista01",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista02",
+            "request": "launch",
+            "mainClass": "listas.Lista02",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista03",
+            "request": "launch",
+            "mainClass": "listas.Lista03",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista04",
+            "request": "launch",
+            "mainClass": "listas.Lista04",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista05",
+            "request": "launch",
+            "mainClass": "listas.Lista05",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista06",
+            "request": "launch",
+            "mainClass": "listas.Lista06",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Lista07",
+            "request": "launch",
+            "mainClass": "listas.Lista07",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao01(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao01",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao02(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao02",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao03(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao03",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao04(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao04",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao05(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao05",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao06(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao06",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao07(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao07",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao08(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao08",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao09(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao09",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao10(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao10",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao11(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao11",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao12(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao12",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao13(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao13",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao14(1)",
+            "request": "launch",
+            "mainClass": "repeticao.Questao14",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao15",
+            "request": "launch",
+            "mainClass": "repeticao.Questao15",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao16",
+            "request": "launch",
+            "mainClass": "repeticao.Questao16",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao17",
+            "request": "launch",
+            "mainClass": "repeticao.Questao17",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao01(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao01",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao02(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao02",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao03(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao03",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao04(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao04",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao05(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao05",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao06(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao06",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao07(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao07",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao08(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao08",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao09(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao09",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao10(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao10",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao11(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao11",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao12(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao12",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao13(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao13",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao14(2)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao14",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao15(1)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao15",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        },
+        {
+            "type": "java",
+            "name": "Questao16(1)",
+            "request": "launch",
+            "mainClass": "sequencial.Questao16",
+            "projectName": "exercicios-python-brasil-java_83209ece"
+        }
+    ]
+}
