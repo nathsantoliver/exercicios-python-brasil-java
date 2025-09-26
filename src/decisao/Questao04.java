@@ -27,5 +27,6 @@ public class Questao04 {
             System.out.println("Você digitou uma CONSOANTE!");
         }
 
+        scan.close();
     }
 }

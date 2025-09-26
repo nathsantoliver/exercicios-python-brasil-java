@@ -21,5 +21,7 @@ public class Questao01 {
             System.out.println("O número maior é " + num2);
         }
 
+        scan.close();
+
     }
 }

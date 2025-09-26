@@ -30,5 +30,6 @@ public class Questao05 {
             System.out.println("Sua média é "+ media + " - Você foi APROVADO COM DISTINÇÃO");
         }
 
+        scan.close();
     }
 }

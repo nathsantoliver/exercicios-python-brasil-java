@@ -39,5 +39,6 @@ public class Questao07 {
             }
         }
 
+        scan.close();
     }
 }

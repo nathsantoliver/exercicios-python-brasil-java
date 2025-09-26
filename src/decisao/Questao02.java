@@ -21,5 +21,6 @@ public class Questao02 {
             System.out.println("O valor digitado é ZERO!");
         }
 
+        scan.close();
     }
 }

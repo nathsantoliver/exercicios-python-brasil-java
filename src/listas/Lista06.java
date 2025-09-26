@@ -36,5 +36,6 @@ public class Lista06 {
 
         System.out.println("Numero de alunos com media acima ou igual a 7.0: " + count);
 
+        scan.close();
     }
 }

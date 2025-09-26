@@ -24,5 +24,6 @@ public class Questao06 {
             System.out.println("O maior número digitado é " + num3);
         }
 
+        scan.close();
     }
 }

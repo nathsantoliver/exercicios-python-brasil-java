@@ -59,5 +59,7 @@ public class Questao03 {
         }
 
         System.out.println("\nInformações validadas!!!");
+
+        scan.close();
     }
 }

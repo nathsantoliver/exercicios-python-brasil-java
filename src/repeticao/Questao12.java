@@ -40,6 +40,8 @@ public class Questao12 {
             mult = num * i;
             System.out.println(num + " x " + i + " = " + mult);
         }
+
+        scan.close();
     }
 
 }

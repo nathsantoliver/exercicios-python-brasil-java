@@ -26,5 +26,7 @@ public class Questao08 {
         } else {
             System.out.println("Você deve comprar o Produto 3, pois o valor é menor (R$" + prod3 + ")");
         }
+
+        scan.close();
     }
 }

@@ -26,5 +26,7 @@ public class Lista03 {
 
         double media = sum / notas.length;
         System.out.println(media);
+
+        scan.close();
     }
 }

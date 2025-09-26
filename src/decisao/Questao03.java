@@ -24,5 +24,6 @@ public class Questao03 {
             System.out.println("Sexo Inválido");
         }
 
+        scan.close();
     }
 }

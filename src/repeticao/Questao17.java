@@ -19,5 +19,6 @@ public class Questao17 {
 
         System.out.print(factorial);
 
+        scan.close();
     }
 }
