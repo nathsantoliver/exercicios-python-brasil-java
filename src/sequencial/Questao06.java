@@ -14,6 +14,8 @@ public class Questao06 {
         float raio = scan.nextFloat();
 
         System.out.println("A área do círculo é: " + areaCirculo(raio));
+
+        scan.close();
     }
 
     public static float areaCirculo(float r) {

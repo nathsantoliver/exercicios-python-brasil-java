@@ -13,6 +13,8 @@ public class Questao07 {
         float lado = scan.nextFloat();
 
         System.out.println(areaQuadrado(lado) * 2);
+
+        scan.close();
     }
 
     public static float areaQuadrado(float l) {

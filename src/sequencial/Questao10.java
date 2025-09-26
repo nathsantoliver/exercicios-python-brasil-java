@@ -13,5 +13,7 @@ public class Questao10 {
 
         System.out.printf("%.1fºC = ", c);
         System.out.printf("%.1fºF", fr);
+
+        scan.close();
     }
 }

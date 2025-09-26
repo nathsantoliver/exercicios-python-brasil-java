@@ -12,5 +12,7 @@ public class Questao02 {
         numero = scan.nextInt();
 
         System.out.println("O número informado foi " + numero + ".");
+
+        scan.close();
     }
 }

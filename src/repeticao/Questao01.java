@@ -18,6 +18,8 @@ public class Questao01 {
             System.out.print("Informe a nota do Aluno: ");
             nota = scan.nextFloat();
         } while (nota >= 10.0);
+
+        scan.close();
     }
 
 }

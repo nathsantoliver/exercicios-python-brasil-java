@@ -21,5 +21,7 @@ public class Questao04 {
         media = (nota1 + nota2 + nota3 + nota4) / 4;
 
         System.out.println("A sua média é de: " + media);
+
+        scan.close();
     }
 }

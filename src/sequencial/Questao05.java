@@ -14,5 +14,7 @@ public class Questao05 {
         centimetro = metro * 100;
 
         System.out.println(metro + " m = " + centimetro + " cm");
+
+        scan.close();
     }
 }

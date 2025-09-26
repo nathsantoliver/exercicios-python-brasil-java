@@ -26,6 +26,8 @@ public class Questao02 {
             System.out.print("Senha: ");
             senha = scan.nextLine();
         }
+
+        scan.close();
     }
 
 }

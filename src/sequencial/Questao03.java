@@ -19,5 +19,7 @@ public class Questao03 {
         soma = numero1 + numero2;
 
         System.out.println("A soma dos dois numeros digitados é: " + soma);
+
+        scan.close();
     }
 }

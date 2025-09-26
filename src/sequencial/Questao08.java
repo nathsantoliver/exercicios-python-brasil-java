@@ -14,5 +14,7 @@ public class Questao08 {
         double salarioMes = salarioPorHora * horasTrabalhadas;
 
         System.out.println("O seu salário este mês será de: $" + salarioMes);
+
+        scan.close();
     }
 }
